@@ -9,3 +9,8 @@ There are examples for:
     - and provides a button to toggle the state of a pin.
   - Serving static as well as on-the-fly JSON data at `/json/`, `/toggle_2/`, and `/free_mem/`.
   
+Screenshot
+---
+
+![Main Page](img/main_page.jpg "Main Page")
+  
